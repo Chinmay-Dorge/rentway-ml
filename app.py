@@ -1,8 +1,10 @@
 from flask import Flask, request
 import pandas as pd
 import pickle
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Load the decision tree model
 with open('decision_tree.pkl', 'rb') as f:
