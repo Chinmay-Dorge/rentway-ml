@@ -1,0 +1,299 @@
+﻿cloth_type,size,color,fabric,brand,mrp,age_months,rental_price,rental_duration,availability,condition,location,occasion
+Kurti,S,Green,Cotton,W,1999,6,200,3,Yes,New,Mumbai,Wedding
+Saree,F,Red,Silk,FabIndia,4999,12,600,5,Yes,Used,Delhi,Formal
+Lehenga,M,Pink,Net,Sabyasachi,9999,3,1500,7,Yes,New,Kolkata,Party
+Sherwani,L,Blue,Velvet,Manyavar,7999,8,1200,4,No,Refurbished,Hyderabad,Wedding
+Anarkali,S,Yellow,Georgette,Biba,2999,9,400,2,Yes,Used,Chennai,Casual
+Salwar Suit,M,Purple,Chiffon,Ritu Kumar,5999,5,800,3,Yes,New,Bangalore,Formal
+Kurti,L,Orange,Rayon,Global Desi,1499,10,150,7,Yes,Used,Pune,Casual
+Saree,F,Green,Cotton,W,2999,11,500,5,Yes,Used,Jaipur,Formal
+Lehenga,M,Red,Silk,Manyavar,12999,2,2000,7,No,New,Ahmedabad,Wedding
+Sherwani,L,Maroon,Velvet,Sabyasachi,15999,4,3000,4,Yes,Refurbished,Lucknow,Wedding
+Anarkali,S,Pink,Georgette,FabIndia,3999,6,500,2,Yes,Used,Bhopal,Casual
+Salwar Suit,M,Blue,Cotton,Ritu Kumar,4999,7,700,3,Yes,New,Chandigarh,Formal
+Kurti,L,White,Linen,Global Desi,1999,9,250,7,Yes,Used,Delhi,Casual
+Saree,F,Yellow,Silk,Biba,3999,5,800,4,Yes,New,Mumbai,Formal
+Lehenga,M,Purple,Net,Manyavar,7999,3,1200,5,Yes,Used,Chennai,Wedding
+Sherwani,L,Black,Velvet,Sabyasachi,16999,4,3500,4,Yes,Refurbished,Bangalore,Wedding
+Anarkali,S,Green,Georgette,FabIndia,2999,8,450,3,Yes,Used,Jaipur,Casual
+Salwar Suit,M,Pink,Chiffon,Ritu Kumar,6999,6,900,7,Yes,New,Hyderabad,Formal
+Kurti,L,Blue,Cotton,W,1499,10,150,2,Yes,Used,Pune,Casual
+Saree,F,Purple,Silk,FabIndia,6999,11,1000,5,Yes,New,Kolkata,Formal
+Lehenga,M,Green,Net,Sabyasachi,12999,2,200,7,Yes,New,Bangalore,Wedding
+Sherwani,L,Red,Velvet,Manyavar,9999,7,1500,3,Yes,Used,Delhi,Wedding
+Anarkali,S,Blue,Georgette,Biba,2499,6,350,2,Yes,New,Chennai,Casual
+Salwar Suit,M,Yellow,Cotton,Ritu Kumar,3999,5,600,7,Yes,Used,Bangalore,Formal
+Kurti,L,Purple,Linen,Global Desi,2499,12,300,3,Yes,New,Hyderabad,Casual
+Saree,F,Green,Silk,Sabyasachi,8999,4,900,5,Yes,Refurbished,Mumbai,Formal
+Lehenga,M,Red,Net,Manyavar,5999,6,1000,7,Yes,Used,Jaipur,Wedding
+Sherwani,L,Maroon,Velvet,FabIndia,6999,3,1100,4,No,New,Chandigarh,Wedding
+Anarkali,S,Yellow,Georgette,Manyavar,3999,9,550,2,Yes,Used,Pune,Casual
+Salwar Suit,M,Pink,Chiffon,W,4999,7,750,3,Yes,New,Kolkata,Formal
+Kurti,L,Blue,Rayon,Ritu Kumar,1999,8,200,7,Yes,Used,Delhi,Casual
+Saree,F,Pink,Cotton,Biba,1999,11,400,4,Yes,New,Hyderabad,Formal
+Lehenga,M,Blue,Silk,Sabyasachi,8999,4,1200,5,Yes,Refurbished,Bangalore,Wedding
+Sherwani,L,Black,Velvet,Manyavar,11999,6,1800,4,Yes,Used,Chennai,Wedding
+Anarkali,S,Red,Georgette,Ritu Kumar,2999,5,400,3,Yes,New,Pune,Casual
+Salwar Suit,M,Green,Cotton,Global Desi,4499,9,650,7,Yes,Used,Jaipur,Formal
+Kurti,L,Yellow,Linen,FabIndia,1499,10,150,2,Yes,New,Kolkata,Casual
+Saree,F,Purple,Silk,Manyavar,8999,8,1000,5,Yes,Refurbished,Lucknow,Formal
+Lehenga,M,Green,Net,Sabyasachi,15999,3,2500,7,Yes,New,Ahmedabad,Wedding
+Sherwani,L,Red,Velvet,Manyavar,9999,7,1500,3,Yes,Used,Delhi,Wedding
+Anarkali,S,Blue,Georgette,Biba,2499,6,350,2,Yes,New,Chennai,Casual
+Salwar Suit,M,Yellow,Cotton,Ritu Kumar,3999,5,600,7,Yes,Used,Bangalore,Formal
+Saree,F,Yellow,Silk,Manyavar,7999,4,950,4,Yes,New,Mumbai,Formal
+Lehenga,M,Pink,Net,Sabyasachi,13999,3,2400,7,Yes,Used,Hyderabad,Wedding
+Sherwani,L,White,Raw Silk,Manyavar,10999,5,1400,4,No,New,Delhi,Wedding
+Anarkali,S,Green,Georgette,Global Desi,3499,8,500,2,Yes,Used,Chennai,Casual
+Salwar Suit,M,Pink,Chiffon,W,4999,7,750,3,Yes,New,Kolkata,Formal
+Kurti,L,Blue,Rayon,Ritu Kumar,1999,8,200,7,Yes,Used,Delhi,Casual
+Saree,F,Pink,Cotton,Biba,1999,11,400,4,Yes,New,Hyderabad,Formal
+Lehenga,M,Blue,Silk,Sabyasachi,8999,4,1200,5,Yes,Refurbished,Bangalore,Wedding
+Sherwani,L,Black,Velvet,Manyavar,11999,6,1800,4,Yes,Used,Chennai,Wedding
+Anarkali,S,Red,Georgette,Ritu Kumar,2999,5,400,3,Yes,New,Pune,Casual
+Salwar Suit,M,Green,Cotton,Global Desi,4499,9,650,7,Yes,Used,Jaipur,Formal
+Kurti,L,Yellow,Linen,FabIndia,1499,10,150,2,Yes,New,Kolkata,Casual
+Saree,F,Purple,Silk,Manyavar,8999,8,1000,5,Yes,Refurbished,Lucknow,Formal
+Lehenga,M,Green,Net,Sabyasachi,15999,3,2500,7,Yes,New,Ahmedabad,Wedding
+Sherwani,L,Red,Velvet,Manyavar,9999,7,1500,3,Yes,Used,Delhi,Wedding
+Anarkali,S,Blue,Georgette,Biba,2499,6,350,2,Yes,New,Chennai,Casual
+Salwar Suit,M,Yellow,Cotton,Ritu Kumar,3999,5,600,7,Yes,Used,Bangalore,Formal
+Kurti,L,Purple,Linen,Global Desi,2499,12,300,3,Yes,New,Hyderabad,Casual
+Saree,F,Green,Silk,Sabyasachi,8999,4,900,5,Yes,Refurbished,Mumbai,Formal
+Lehenga,M,Red,Net,Manyavar,5999,6,1000,7,Yes,Used,Jaipur,Wedding
+Sherwani,L,Maroon,Velvet,FabIndia,6999,3,1100,4,No,New,Chandigarh,Wedding
+Kurta,L,Blue,Linen,Manyavar,3999,2,300,2,Yes,New,Delhi,Formal
+Palazzo,S,Black,Cotton,W,1499,6,200,7,Yes,Used,Bangalore,Casual
+Saree,F,Red,Silk,Ritu Kumar,10999,5,1500,4,Yes,New,Pune,Formal
+Lehenga,M,Yellow,Net,Sabyasachi,19999,4,3000,7,Yes,New,Hyderabad,Wedding
+Sherwani,L,Blue,Raw Silk,Manyavar,12999,5,1600,4,No,New,Delhi,Wedding
+Anarkali,S,Orange,Georgette,Global Desi,2999,9,450,2,Yes,New,Mumbai,Casual
+Salwar Suit,M,Red,Chiffon,Manyavar,5999,8,850,3,Yes,Used,Jaipur,Formal
+Kurti,L,Green,Cotton,FabIndia,1999,11,250,7,Yes,Used,Chennai,Casual
+Saree,F,Blue,Cotton,Biba,2999,8,500,4,Yes,New,Bangalore,Formal
+Lehenga,M,Purple,Silk,Sabyasachi,10999,3,1800,5,Yes,Refurbished,Delhi,Wedding
+Sherwani,L,Brown,Velvet,Manyavar,10999,6,1700,4,Yes,Used,Hyderabad,Wedding
+Anarkali,S,Pink,Georgette,Ritu Kumar,3999,5,600,3,Yes,New,Chandigarh,Casual
+Salwar Suit,M,Yellow,Silk,Global Desi,5499,9,750,7,Yes,Used,Jaipur,Formal
+Kurti,L,Red,Rayon,Manyavar,2999,10,300,2,Yes,New,Kolkata,Casual
+Saree,F,Green,Silk,Global Desi,4999,7,800,5,Yes,Refurbished,Chennai,Formal
+Lehenga,M,Pink,Net,Manyavar,7999,6,1300,7,Yes,Used,Delhi,Wedding
+Sherwani,L,Black,Raw Silk,Sabyasachi,13999,4,2000,4,Yes,New,Pune,Wedding
+Anarkali,S,Green,Georgette,Manyavar,3499,8,500,2,Yes,Used,Hyderabad,Casual
+Salwar Suit,M,Pink,Chiffon,W,4999,7,750,3,Yes,New,Kolkata,Formal
+Kurti,L,Blue,Rayon,Ritu Kumar,1999,8,200,7,Yes,Used,Delhi,Casual
+Saree,F,Pink,Cotton,Biba,1999,11,400,4,Yes,New,Hyderabad,Formal
+Jeans,M,Blue,Denim,Levi's,2999,5,750,3,Yes,New,Mumbai,Casual
+T-shirt,L,Black,Cotton,Puma,1299,6,250,2,Yes,New,Delhi,Casual
+Shorts,S,Green,Cotton,Adidas,1799,4,350,7,Yes,Used,Bangalore,Casual
+Capri,M,Pink,Cotton,Reebok,1999,8,300,7,Yes,New,Hyderabad,Casual
+Track Pants,L,Grey,Polyester,Nike,2499,7,500,4,Yes,Refurbished,Mumbai,Casual
+Hoodie,S,Red,Cotton,Under Armour,3499,3,700,2,No,New,Delhi,Casual
+Jacket,M,Black,Leather,Wrangler,7999,5,1200,7,Yes,Used,Pune,Casual
+T-shirt,L,White,Cotton,Tommy Hilfiger,1999,10,400,3,Yes,New,Kolkata,Casual
+Jeans,S,Black,Denim,Pepe Jeans,2499,6,600,7,Yes,New,Chennai,Casual
+Shorts,M,Blue,Cotton,Gap,1499,9,250,4,Yes,Refurbished,Delhi,Casual
+Capri,S,Purple,Cotton,Puma,1799,5,300,2,Yes,New,Hyderabad,Casual
+Track Pants,L,Black,Polyester,Adidas,2999,4,550,7,Yes,Used,Mumbai,Casual
+Hoodie,M,Blue,Cotton,Nike,3999,3,800,3,Yes,New,Delhi,Casual
+Shirt,M,White,Cotton,Ralph Lauren,3999,8,800,2,Yes,New,Bangalore,Formal
+Trouser,L,Grey,Wool,Arrow,4999,10,1000,3,Yes,New,Mumbai,Formal
+Blazer,M,Black,Polyester,Van Heusen,7999,6,1500,7,Yes,Used,Delhi,Formal
+Tie,F,Red,Silk,Brooks Brothers,1999,5,400,2,Yes,New,Chennai,Formal
+Dress,S,Black,Polyester,Gucci,14999,3,3000,3,Yes,New,Hyderabad,Formal
+Shirt,M,Blue,Cotton,Peter England,2999,8,600,7,Yes,Used,Pune,Formal
+Skirt,S,Red,Polyester,Calvin Klein,5999,4,1200,4,Yes,New,Kolkata,Formal
+Suit,M,Black,Wool,Armani,49999,1,10000,7,Yes,New,Delhi,Formal
+Tie,F,Blue,Silk,Ermenegildo Zegna,2999,5,500,2,Yes,New,Mumbai,Formal
+Dress,M,Green,Silk,Dolce & Gabbana,25999,2,5000,3,Yes,New,Bangalore,Formal
+Kurta,M,White,Cotton,Louis Philippe,4999,7,1000,7,Yes,Used,Hyderabad,Traditional
+Saree,F,Red,Silk,Sabyasachi,69999,1,14000,2,Yes,New,Delhi,Traditional
+Suit,M,Blue,Cotton,Park Avenue,8999,5,1500,3,Yes,New,Mumbai,Formal
+Lehenga,S,Green,Silk,Manish Malhotra,119999,1,24000,7,Yes,New,Chennai,Traditional
+Salwar Kameez,M,Pink,Cotton,Lakshya,3999,9,800,4,Yes,Refurbished,Bangalore,Traditional
+Sherwani,M,White,Silk,Rohit Bal,34999,3,7000,2,Yes,New,Hyderabad,Traditional
+Saree,F,Blue,Silk,Anita Dongre,29999,6,6000,7,Yes,Used,Mumbai,Traditional
+Kurta,S,Black,Cotton,W,1799,11,350,3,Yes,Refurbished,Delhi,Traditional
+Suit,M,Black,Wool,Peter England,9999,4,2000,7,Yes,New,Chennai,Formal
+Lehenga,M,Yellow,Silk,Abu Jani Sandeep Khosla,79999,2,16000,2,Yes,New,Kolkata,Traditional
+T-shirt,L,Grey,Cotton,Nike,2499,5,500,3,Yes,New,Delhi,Casual
+Jeans,M,Blue,Denim,Levi's,3999,8,800,2,Yes,New,Mumbai,Casual
+Hoodie,S,Black,Polyester,Adidas,3499,6,700,7,Yes,Used,Bangalore,Casual
+Joggers,M,Green,Cotton,Puma,2999,7,600,4,Yes,Refurbished,Hyderabad,Casual
+Tank Top,L,Yellow,Cotton,Under Armour,1999,10,400,3,Yes,New,Chennai,Casual
+Sweatshirt,M,Grey,Cotton,H&M,2999,5,600,2,Yes,New,Kolkata,Casual
+Shorts,S,Blue,Polyester,Reebok,2499,9,500,7,Yes,Used,Delhi,Casual
+Capri,M,Black,Cotton,Nike,3499,6,700,3,Yes,New,Mumbai,Casual
+Top,S,Pink,Satin,Forever 21,1999,12,400,4,Yes,Refurbished,Bangalore,Casual
+Joggers,L,Black,Cotton,Zara,3999,4,800,7,Yes,Used,Hyderabad,Casual
+Kurta,M,Pink,Silk,W for Women,4999,8,1000,2,Yes,New,Delhi,Traditional
+Salwar Kameez,S,Green,Cotton,BIBA,3499,5,700,7,Yes,Used,Mumbai,Traditional
+Saree,F,Orange,Silk,Raw Mango,8999,3,1800,3,Yes,New,Bangalore,Traditional
+Kurti,M,Purple,Cotton,Libas,1999,10,400,4,Yes,Refurbished,Kolkata,Traditional
+Sherwani,L,Beige,Silk,Manyavar,14999,6,3000,2,Yes,New,Hyderabad,Traditional
+Lehenga,M,Pink,Silk,Neeta Lulla,29999,4,6000,7,Yes,Used,Chennai,Traditional
+Dhoti,F,White,Cotton,FabIndia,1999,11,400,3,Yes,Refurbished,Delhi,Traditional
+Blouse,S,Red,Silk,Anita Dongre,5999,5,1200,2,Yes,New,Mumbai,Traditional
+Suit,M,White,Cotton,Manyavar,7999,7,1600,4,Yes,Used,Bangalore,Traditional
+Salwar Kameez,L,Black,Cotton,W for Women,2499,9,500,7,Yes,New,Kolkata,Traditional
+Dress,S,Red,Polyester,Zara,2999,6,600,2,Yes,New,Delhi,Party
+Gown,M,Blue,Chiffon,Manish Malhotra,9999,3,2000,7,Yes,Used,Mumbai,Party
+Jumpsuit,L,Black,Cotton,H&M,3999,5,800,3,Yes,Refurbished,Bangalore,Party
+Blazer,M,Grey,Wool,Van Heusen,5999,8,1200,2,Yes,New,Kolkata,Formal
+Suit,L,Navy Blue,Polyester,Raymond,8999,4,1800,7,Yes,Used,Hyderabad,Formal
+Skirt,S,Pink,Satin,Forever 21,1999,10,400,4,Yes,Refurbished,Chennai,Casual
+Sherwani,M,Black,Silk,Manyavar,19999,7,4000,2,Yes,New,Delhi,Traditional
+Saree,F,Yellow,Silk,Sabyasachi,11999,5,2400,7,Yes,Used,Mumbai,Traditional
+Tuxedo,M,Black,Wool,Armani,39999,3,8000,3,Yes,New,Bangalore,Formal
+Kurta,L,Beige,Cotton,FabIndia,1499,12,300,2,Yes,Refurbished,Kolkata,Casual
+Lehenga,M,Green,Silk,Sabyasachi,69999,2,14000,7,Yes,Used,Hyderabad,Traditional
+Blouse,S,White,Silk,Tarun Tahiliani,7999,6,1600,4,Yes,New,Chennai,Traditional
+Joggers,L,Grey,Cotton,Puma,2999,8,600,3,Yes,Refurbished,Delhi,Casual
+Dress,S,Black,Polyester,Mango,2499,9,500,7,Yes,Used,Mumbai,Party
+Gown,M,Red,Georgette,Ritu Kumar,12999,4,2600,2,Yes,New,Bangalore,Party
+Kurta,L,Green,Cotton,Manyavar,2999,7,600,7,Yes,Used,Kolkata,Traditional
+Blazer,M,Navy Blue,Polyester,Blackberrys,4999,5,1000,3,Yes,New,Hyderabad,Formal
+Saree,F,Pink,Chiffon,Meena Bazaar,4999,6,1000,2,Yes,Refurbished,Chennai,Traditional
+T-shirt,S,White,Cotton,Levi's,1999,11,400,4,Yes,New,Delhi,Casual
+Jumpsuit,S,Green,Polyester,H&M,2999,4,600,2,Yes,Used,Mumbai,Party
+Jeans,L,Blue,Denim,Levi's,3999,6,800,3,Yes,New,Bangalore,Casual
+Lehenga,M,Purple,Silk,Anita Dongre,89999,1,18000,7,Yes,Refurbished,Kolkata,Traditional
+Blouse,S,Blue,Cotton,W,999,9,200,4,Yes,New,Hyderabad,Traditional
+Suit,L,Black,Polyester,Blackberrys,7999,5,1600,3,Yes,Used,Chennai,Formal
+Trousers,M,Beige,Cotton,Arrow,2999,8,600,2,Yes,New,Delhi,Formal
+Saree,F,Green,Georgette,BIBA,5999,4,1200,7,Yes,Refurbished,Mumbai,Traditional
+Kurta,L,Pink,Cotton,W,1499,7,300,3,Yes,New,Bangalore,Casual
+Dress,S,White,Cotton,Forever 21,1999,9,400,2,Yes,Used,Kolkata,Party
+Sherwani,M,Cream,Silk,Manyavar,17999,5,3600,7,Yes,New,Hyderabad,Traditional
+Blazer,L,Navy Blue,Polyester,Van Heusen,5999,6,1200,4,Yes,Refurbished,Chennai,Formal
+Joggers,M,Black,Cotton,Adidas,3499,7,700,2,Yes,New,Delhi,Casual
+Gown,S,Pink,Chiffon,Manish Malhotra,14999,3,3000,7,Yes,Used,Mumbai,Party
+Lehenga,M,Red,Silk,Sabyasachi,79999,2,16000,3,Yes,New,Bangalore,Traditional
+Skirt,L,Black,Leather,Zara,5999,5,1200,2,Yes,Refurbished,Kolkata,Casual
+Suit,M,Navy Blue,Wool,Raymond,11999,4,2400,7,Yes,New,Hyderabad,Formal
+T-shirt,S,Grey,Cotton,Nike,2499,10,500,4,Yes,Used,Chennai,Casual
+Kurta,L,Orange,Cotton,FabIndia,1499,8,300,2,Yes,New,Delhi,Traditional
+Jumpsuit,S,Black,Polyester,Forever 21,1999,6,400,7,Yes,Refurbished,Mumbai,Party
+Saree,F,Blue,Silk,Sabyasachi,99999,1,20000,3,Yes,New,Bangalore,
+Shirt,L,Blue,Cotton,Raymond,2000,5,500,7,Yes,New,Delhi,Formal
+Jeans,32,Black,Denim,Levis,3000,3,800,5,Yes,Like New,Mumbai,Casual
+T-Shirt,M,Green,Jersey,Nike,1500,4,400,3,No,Good,Chennai,Outdoor
+Saree,F,Red,Silk,Sabyasachi,15000,6,4000,8,Yes,New,Kolkata,Wedding
+Kurta,L,White,Linen,FabIndia,3500,2,1000,2,Yes,Like New,Bangalore,Festive
+Blazer,M,Grey,Polyester,Versace,8000,8,2000,5,No,Fair,Mumbai,Formal
+Salwar Kameez,M,Orange,Cotton,Biba,5000,3,1500,4,Yes,Good,Delhi,Festive
+Skirt,S,Black,Leather,Zara,4000,4,1200,3,No,New,Chennai,Party
+Chinos,34,Khaki,Twill,United Colors of Benetton,2500,6,600,6,Yes,Like New,Pune,Casual
+Dress,XS,Red,Satin,Forever New,5000,2,1500,4,No,Good,Bangalore,Party
+Sweater,M,Grey,Wool,Puma,4000,5,1000,7,Yes,Fair,Kolkata,Outdoor
+Blouse,S,Green,Chiffon,Allen Solly,3000,4,800,4,No,New,Mumbai,Formal
+Hoodie,L,Black,Cotton,Polo Ralph Lauren,6000,7,1500,5,No,Like New,Delhi,Casual
+Lehenga,F,Blue,Silk,Satya Paul,10000,3,2500,8,Yes,New,Chennai,Wedding
+Shorts,M,Red,Polyester,Adidas,2000,2,500,2,No,Good,Pune,Outdoor
+Suit,L,Black,Wool,Armani,15000,9,4000,7,Yes,Fair,Bangalore,Formal
+Sweatshirt,S,Pink,Fleece,Nike,3500,6,1000,4,No,New,Mumbai,Casual
+Gown,M,Blue,Satin,David's Bridal,8000,4,2000,6,Yes,Like New,Kolkata,Wedding
+Denim Jacket,L,Blue,Denim,Gap,5000,8,1500,5,No,Good,Delhi,Casual
+Blouse,S,Yellow,Cotton,Only,2000,3,600,3,Yes,Fair,Chennai,Form
+Shirt,L,Blue,Cotton,Raymond,2000,5,500,7,Yes,New,Delhi,Formal
+Jeans,32,Black,Denim,Levis,3000,3,800,5,Yes,Like New,Mumbai,Casual
+T-Shirt,M,Green,Jersey,Nike,1500,4,400,3,No,Good,Chennai,Outdoor
+Saree,F,Red,Silk,Sabyasachi,15000,6,4000,8,Yes,New,Kolkata,Wedding
+Kurta,L,White,Linen,FabIndia,3500,2,1000,2,Yes,Like New,Bangalore,Festive
+Blazer,M,Grey,Polyester,Versace,8000,8,2000,5,No,Fair,Mumbai,Formal
+Salwar Kameez,M,Orange,Cotton,Biba,5000,3,1500,4,Yes,Good,Delhi,Festive
+Skirt,S,Black,Leather,Zara,4000,4,1200,3,No,New,Chennai,Party
+Chinos,34,Khaki,Twill,United Colors of Benetton,2500,6,600,6,Yes,Like New,Pune,Casual
+Dress,XS,Red,Satin,Forever New,5000,2,1500,4,No,Good,Bangalore,Party
+Sweater,M,Grey,Wool,Puma,4000,5,1000,7,Yes,Fair,Kolkata,Outdoor
+Blouse,S,Green,Chiffon,Allen Solly,3000,4,800,4,No,New,Mumbai,Formal
+Hoodie,L,Black,Cotton,Polo Ralph Lauren,6000,7,1500,5,No,Like New,Delhi,Casual
+Lehenga,F,Blue,Silk,Satya Paul,10000,3,2500,8,Yes,New,Chennai,Wedding
+Shorts,M,Red,Polyester,Adidas,2000,2,500,2,No,Good,Pune,Outdoor
+Suit,L,Black,Wool,Armani,15000,9,4000,7,Yes,Fair,Bangalore,Formal
+Sweatshirt,S,Pink,Fleece,Nike,3500,6,1000,4,No,New,Mumbai,Casual
+Gown,M,Blue,Satin,David's Bridal,8000,4,2000,6,Yes,Like New,Kolkata,Wedding
+Denim Jacket,L,Blue,Denim,Gap,5000,8,1500,5,No,Good,Delhi,Casual
+Blouse,S,Yellow,Cotton,Only,2000,3,600,3,Yes,Fair,Chennai,Form
+Kurta,L,Green,Cotton,Raymond,3500,5,1000,6,Yes,New,Mumbai,Festive
+Track Pants,S,Black,Polyester,Nike,2000,4,500,3,No,New,Mumbai,Outdoor
+Kurta Set,XL,White,Cotton,Sabyasachi,12000,6,3000,7,Yes,Like New,Delhi,Wedding
+Blazer,XS,Navy Blue,Wool,Raymond,10000,8,2500,6,No,Good,Chennai,Formal
+Jeans,28,Blue,Denim,Wrangler,2500,3,700,4,Yes,Fair,Kolkata,Casual
+Salwar Suit,M,Purple,Georgette,W,5000,5,1500,5,No,New,Pune,Festive
+Shirt,M,White,Linen,Peter England,3000,2,800,2,Yes,Like New,Bangalore,Formal
+Trousers,36,Grey,Chino,Louis Philippe,4000,5,1000,7,No,Good,Delhi,Formal
+Kurta,S,Green,Cotton,Rangriti,2000,3,600,3,Yes,Fair,Mumbai,Festive
+Dress,M,Pink,Silk,Anita Dongre,6000,6,1500,4,No,New,Kolkata,Party
+Sweatpants,L,Grey,Fleece,Adidas,3500,4,1000,3,Yes,Like New,Chennai,Casual
+Lehenga,F,Pink,Silk,Manish Malhotra,20000,7,5000,8,Yes,Fair,Delhi,Wedding
+Sari,F,Green,Chiffon,Sabyasachi,18000,8,4000,7,No,Good,Bangalore,Wedding
+Blouse,XS,Yellow,Satin,Forever New,2500,2,600,2,Yes,New,Mumbai,Formal
+Denim Shorts,32,Blue,Denim,H&M,1500,3,500,3,No,Fair,Pune,Casual
+Suit,XL,Grey,Polyester,Van Heusen,12000,10,3000,6,Yes,Like New,Kolkata,Formal
+Skirt,S,Red,Leather,Forever 21,3500,4,900,4,No,Good,Chennai,Party
+T-Shirt,L,Black,Cotton,Levis,2000,3,500,2,Yes,New,Delhi,Casual
+Sweater,M,Red,Wool,Zara,5000,5,1200,7,No,Fair,Mumbai,Outdoor
+Palazzo Pants,M,Blue,Crepe,Biba,3000,4,800,4,Yes,Like New,Chennai,Festive
+Anarkali,F,Purple,Chiffon,Bombay Selections,7000,6,2000,5,No,Good,Bangalore,Festive
+Shirt,L,Blue,Cotton,Raymond,2000,5,500,7,Yes,New,Delhi,Formal
+Jeans,32,Black,Denim,Levis,3000,3,800,5,Yes,Like New,Mumbai,Casual
+T-Shirt,M,Green,Jersey,Nike,1500,4,400,3,No,Good,Chennai,Outdoor
+Saree,F,Red,Silk,Sabyasachi,15000,6,4000,8,Yes,New,Kolkata,Wedding
+Kurta,L,White,Linen,FabIndia,3500,2,1000,2,Yes,Like New,Bangalore,Festive
+Blazer,M,Grey,Polyester,Versace,8000,8,2000,5,No,Fair,Mumbai,Formal
+Salwar Kameez,M,Orange,Cotton,Biba,5000,3,1500,4,Yes,Good,Delhi,Festive
+Skirt,S,Black,Leather,Zara,4000,4,1200,3,No,New,Chennai,Party
+Chinos,34,Khaki,Twill,United Colors of Benetton,2500,6,600,6,Yes,Like New,Pune,Casual
+Dress,XS,Red,Satin,Forever New,5000,2,1500,4,No,Good,Bangalore,Party
+Sweater,M,Grey,Wool,Puma,4000,5,1000,7,Yes,Fair,Kolkata,Outdoor
+Blouse,S,Green,Chiffon,Allen Solly,3000,4,800,4,No,New,Mumbai,Formal
+Hoodie,L,Black,Cotton,Polo Ralph Lauren,6000,7,1500,5,No,Like New,Delhi,Casual
+Lehenga,F,Blue,Silk,Satya Paul,10000,3,2500,8,Yes,New,Chennai,Wedding
+Shorts,M,Red,Polyester,Adidas,2000,2,500,2,No,Good,Pune,Outdoor
+Suit,L,Black,Wool,Armani,15000,9,4000,7,Yes,Fair,Bangalore,Formal
+Sweatshirt,S,Pink,Fleece,Nike,3500,6,1000,4,No,New,Mumbai,Casual
+Gown,M,Blue,Satin,David's Bridal,8000,4,2000,6,Yes,Like New,Kolkata,Wedding
+Denim Jacket,L,Blue,Denim,Gap,5000,8,1500,5,No,Good,Delhi,Casual
+Blouse,S,Yellow,Cotton,Only,2000,3,600,3,Yes,Fair,Chennai,Formal
+Anarkali,M,Maroon,Silk,Sabyasachi,12000,7,3000,5,Yes,Fair,Kolkata,Wedding
+T-Shirt,L,Red,Cotton,Puma,1500,4,400,3,No,Fair,Delhi,Casual
+Chinos,36,Beige,Twill,Lee,3000,7,800,5,Yes,New,Mumbai,Casual
+Blouse,M,Pink,Silk,Michael Kors,4000,3,1000,3,Yes,Like New,Bangalore,Formal
+Suit,XL,Blue,Wool,Zara,10000,12,2500,7,Yes,Good,Chennai,Formal
+Shawl,F,Green,Cashmere,Gucci,12000,6,3000,8,No,New,Kolkata,Festive
+Jeans,30,Blue,Denim,Pepe Jeans,2500,5,600,4,Yes,Fair,Delhi,Casual
+Blazer,XS,Black,Polyester,Tommy Hilfiger,8000,8,2000,5,No,Like New,Mumbai,Formal
+Lehenga,F,Red,Velvet,Manish Malhotra,15000,4,4000,8,Yes,New,Chennai,Wedding
+Salwar Kameez,M,Yellow,Silk,Biba,6000,3,1500,4,Yes,Good,Pune,Festive
+Skirt,S,Blue,Denim,H&M,2000,2,500,2,No,New,Bangalore,Party
+Hoodie,L,Black,Fleece,Under Armour,4000,5,1000,7,Yes,Fair,Kolkata,Casual
+Blouse,S,White,Lace,Forever 21,2000,4,800,4,No,Good,Delhi,Formal
+Shorts,M,Green,Cotton,Lacoste,2500,2,600,3,No,New,Chennai,Outdoor
+Kurta,M,Yellow,Cotton,Sabhyata,2000,3,600,3,Yes,Like New,Pune,Festive
+Dress,L,Black,Satin,Calvin Klein,5000,2,1500,4,No,Fair,Bangalore,Party
+Sweatpants,32,Grey,Jersey,Champion,2000,6,500,6,Yes,Good,Mumbai,Casual
+Blouse,S,Red,Cotton,United Colors of Benetton,2500,5,800,4,No,Like New,Delhi,Formal
+Saree,F,Yellow,Silk,Raw Mango,10000,9,2500,8,Yes,New,Kolkata,Wedding
+Blazer,L,Blue,Linen,Hugo Boss,7000,3,1800,4,Yes,Fair,Bangalore,Formal
+Maxi Dress,M,Purple,Chiffon,Zimmermann,12000,5,3000,7,No,Good,Mumbai,Party
+Blazer,XS,Black,Cotton,Arrow,6000,4,1500,5,Yes,New,Kolkata,Formal
+Kurta,M,White,Cotton,Siyaram,1500,3,500,3,No,Good,Delhi,Festive
+Skirt,S,Red,Polyester,Mango,3000,2,800,2,Yes,Like New,Mumbai,Party
+Jeans,30,Blue,Denim,Wrangler,2500,6,700,4,No,Fair,Pune,Casual
+Shirt,XL,Pink,Linen,FabIndia,4000,4,1200,3,Yes,New,Bangalore,Formal
+Saree,F,Yellow,Silk,Ritu Kumar,12000,5,3000,7,No,Like New,Chennai,Wedding
+Blouse,S,Black,Crepe,Biba,2500,2,600,2,Yes,Good,Kolkata,Party
+Chinos,36,Brown,Twill,Gap,2000,3,500,2,No,New,Delhi,Casual
+Dress,L,Purple,Chiffon,Forever New,4500,5,1200,4,Yes,Fair,Mumbai,Party
+Hoodie,M,Blue,Cotton,Adidas,3500,4,800,3,No,Good,Pune,Casual
+Lehenga,F,Green,Silk,Anita Dongre,8000,3,2000,6,Yes,New,Bangalore,Wedding
+Suit,XL,Grey,Wool,Hugo Boss,12000,8,3000,7,No,Like New,Chennai,Formal
+Shorts,S,Black,Cotton,Levis,1500,2,400,2,Yes,Good,Kolkata,Outdoor
+Gown,M,Pink,Satin,Adrianna Papell,7000,6,1800,5,No,Fair,Delhi,Wedding
+Salwar Kameez,M,Purple,Cotton,Pantaloons,3000,4,900,4,Yes,New,Mumbai,Festive
+Sweater,L,Red,Wool,Zara,5000,7,1500,5,No,Like New,Pune,Outdoor
+T-Shirt,S,White,Jersey,Puma,1500,2,400,2,Yes,Good,Bangalore,Casual
+Blouse,M,Orange,Silk,Westside,2000,3,500,3,No,Fair,Chennai,Formal
+Denim Jacket,XL,Black,Denim,Lee,4000,4,1000,4,Yes,New,Kolkata,Casual
+Suit,M,Blue,Polyester,Raymond,8000,5,2000,6,No,Like New,Delhi,Formal
